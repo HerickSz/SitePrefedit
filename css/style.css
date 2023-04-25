@@ -11,6 +11,7 @@ ul {
 }
 
 #header ul{
+    padding: 5px;
     background-color: #32386e;
     border: 2px solid #32386e;
 }
