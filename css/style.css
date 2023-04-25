@@ -10,8 +10,13 @@ ul {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#header ul{
+    background-color: #32386e;
+    border: 2px solid #32386e;
+}
 ul li a {
-  color: #FFFFFF;
+ 
+  color: #ffffff;
   text-decoration: none;
   font-family: sans-serif;
 }
@@ -27,7 +32,7 @@ ul li a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #32386e;
+  background: #ffffff;
 }
 a img{
     width: 300px;
